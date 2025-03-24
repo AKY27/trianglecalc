@@ -16,10 +16,10 @@ for(i = 0; i < 6;i++)
 }
 
 function calculate(){
-    console.log(gridParent.children[7].value = 69);
+    //do later
 }
 
-function clear(){
+function clear_(){
     console.log("cleared");
     for(i = 0;i<6; i++){
         gridParent.children[6+i].value = "";
